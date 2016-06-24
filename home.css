@@ -1,7 +1,7 @@
 body {
     background-image:url(images/IMG_4911.JPG);
     background-size: cover;
-    backgroun
+    background-repeat: no-repeat;
     min-width: 600px;
 }
 
