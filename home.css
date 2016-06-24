@@ -15,12 +15,14 @@ h1 {
 h1#l1 {
     color:blue;
     display:block;
-    padding-top: 28px;
+    padding-top: 100px;
 }
 
 
 h1#l2 {
     color:red;
+    display:block;
+    padding-top: 125px;
 
 }
 
