@@ -22,7 +22,7 @@ h1 {
                 -2px 2px 2px black;
 }
 
-h1 a:hover {
+h1:hover {
     color:hotpink;
 }
 
