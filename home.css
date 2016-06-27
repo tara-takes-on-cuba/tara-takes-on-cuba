@@ -1,36 +1,48 @@
 body {
-    background-image:url(images/IMG_4911.JPG);
+    min-width: 600px;
+    background-image: url(images/IMG_4911.JPG);
     background-size: cover;
     background-repeat: no-repeat;
-    min-width: 600px;
 }
+
+a {
+    color:white;
+    text-decoration: none;
+}
+
 
 h1 {
-    display:inline-block;
-    padding:5px 5px;
-    text-shadow: 2px 2px black;
-    font-family: 
+    position:relative;
+    top:170px;
+    color:aliceblue;
+    font-size:50px;
+    text-shadow: 2px 2px 2px black,
+                -2px -2px 2px black,
+                 2px -2px 2px black,
+                -2px 2px 2px black;
 }
 
-h1#l1 {
-    color:blue;
-    display:block;
-    padding-top: 100px;
+h1 a:hover {
+    color:hotpink;
 }
 
-
-h1#l2 {
-    color:red;
-    display:block;
-    padding-top: 125px;
-
+h2 {
+    color:aliceblue;
+    line-height: 1.5;
+    margin: 0px 100px;
+    text-align: center;
+    text-shadow: 2px 2px 2px black,
+                -2px -2px 2px black,
+                 2px -2px 2px black,
+                -2px 2px 2px black;
+    
 }
 
 header {
     width:80%;
     min-width: 200px;
     height:500px;
-    margin:50px auto;
+    margin:100px auto;
     text-align: center;
     background:white;
     border-radius: 15px;
