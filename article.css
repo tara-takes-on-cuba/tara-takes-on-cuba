@@ -62,5 +62,6 @@ p {
 }
 
 #disqus_thread {
-    margin: 50px 70px;
+    width:70%;
+    margin: 50px auto;
 }
